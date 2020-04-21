@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">University Rank</string>
+    <string name="Instagram">\@ibnu_ibnu1</string>
+    <string name="twitter">\@ibnu_ibnu1</string>
+    <string name="github">nuribnu1590</string>
+    <string name="dashboard">Dashboard,</string>
+    <string name="information_about_universities">information about universities</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Muhammad Nur Ibnu Wicaksono</string>
+    <string name="email">ibnuwowww@gmail.com</string>
+    <string name="universitas">Universitas</string>
+    <string name="rank">Rank</string>
+    <string name="web">Web</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="university_overview">University Overview</string>
+    <string name="detail">detail</string>
+</resources>
